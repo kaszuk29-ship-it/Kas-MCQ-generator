@@ -81,6 +81,10 @@ huggingface_hub
 
 Add the Hugging Face token through the Streamlit Cloud **Secrets** settings.
 
+## Link
+https://kas-mcq-generator-yeca3k8opuwgrjuwmp3s7q.streamlit.app/
+
 ## License
 
 This project is created for educational purposes.
+
